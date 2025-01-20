@@ -1,1 +1,2 @@
 # Road-Accident-Dashboard
+I analyzed road accident data to identify key trends and insights. Using Excel, I cleaned and prepared the dataset, ensuring its accuracy and consistency. I leveraged Power BI and Tableau to design interactive dashboards that showcased accident patterns, severity levels, and high-risk zones. SQL was used to extract and calculate essential KPIs, such as accident frequency, average response time, and location-based statistics. This comprehensive approach provided actionable insights to improve road safety and optimize preventive measures.
